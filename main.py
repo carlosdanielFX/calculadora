@@ -12,7 +12,7 @@ while calculo != 's':
         else:
             print("operedor ivalido")
     elif op == '-':
-        resultado = s1 + s2
+        resultado = s1 - s2
         print(f"resultado e {resultado}")
     else:
           print("operedor ivalido")
